@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Elec3607-Pong</string>
+    <string name="database_create">
+        create table matches (
+            id integer primary key autoincrement,
+            p1_score integer,
+            p2_score integer,
+            date text
+        );
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
