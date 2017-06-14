@@ -11,3 +11,5 @@ Implementation of the pong game in Arduino
 
 <h3>Schematic</h3>
 <center><img src="http://i.imgur.com/dihleEe.png" alt="High level schematic diagram" /></center>
+
+<h5>For the full specifications and details, please check out the report in the root of this directory.</h5>
